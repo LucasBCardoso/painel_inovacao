@@ -1,0 +1,8 @@
+dash>=4.0.0
+dash-mantine-components>=2.6.0
+dash-iconify>=0.1.2
+plotly>=5.20
+pandas>=2.0
+flask-sqlalchemy>=3.1
+werkzeug>=3.0
+openpyxl>=3.1
